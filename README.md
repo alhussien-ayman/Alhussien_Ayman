@@ -16,21 +16,17 @@ I’m a Junior Systems and Biomedical Engineering student with a strong passion 
 
 ## 🔧 Technologies & Tools
 
-<div align="center">
+<img src="https://skillicons.dev/icons?i=cpp,py,java,js , html,css,bootstrap , git,postman,npm,blender,vscode &perline=5" />
 
-### Languages and tools
-<img src="https://skillicons.dev/icons?i=cpp,py,java,js&perline=5" />
 
-### Frameworks
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,qt&perline=5" />
 
-### Databases
+
 <img src="https://skillicons.dev/icons?i=postgres,dynamodb&perline=5" />
 
-### Tools
 <img src="https://skillicons.dev/icons?i=git,postman,npm,blender,vscode&perline=5" />
 
-</div>
+
 
 ---
 
