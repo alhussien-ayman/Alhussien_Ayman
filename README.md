@@ -22,7 +22,7 @@ I’m a Junior Systems and Biomedical Engineering student with a strong passion 
 <img src="https://skillicons.dev/icons?i=cpp,py,java,js&perline=5" />
 
 ### Frameworks
-<img src="https://skillicons.dev/icons?i=express,nodejs,qt&perline=5" />
+<img src="https://skillicons.dev/icons?i=HTML , css,nodejs,qt&perline=5" />
 
 ### Databases
 <img src="https://skillicons.dev/icons?i=postgres,dynamodb&perline=5" />
