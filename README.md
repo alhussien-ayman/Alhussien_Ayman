@@ -15,7 +15,7 @@ I’m a Junior Systems and Biomedical Engineering student with a strong passion 
 ---
 
 ## 🔧 Technologies & Tools
-<img src="https://skillicons.dev/icons?i=cpp,py,java,js,html,css,bootstrap,git,postman,npm,blender,vscode,react,kali&perline=13" />
+<img src="https://skillicons.dev/icons?i=cpp,py,java,js,html,css,bootstrap,git,postman,npm,blender,vscode,react,kali&perline=14" />
 
 
 
