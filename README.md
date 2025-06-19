@@ -18,16 +18,6 @@ I’m a Junior Systems and Biomedical Engineering student with a strong passion 
 <img src="https://skillicons.dev/icons?i=cpp,py,java,js,html,css,bootstrap,git,postman,npm,blender,vscode&perline=5" />
 
 
-
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,qt&perline=5" />
-
-
-<img src="https://skillicons.dev/icons?i=postgres,dynamodb&perline=5" />
-
-<img src="https://skillicons.dev/icons?i=git,postman,npm,blender,vscode&perline=5" />
-
-
-
 ---
 
 ## 📫 How to Reach Me
