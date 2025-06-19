@@ -4,7 +4,7 @@
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+%2C+I'm+Alhussien+Ayman;An+Aspiring++Software+Engineer)](https://git.io/typing-svg)
 
   
-  ![Code Banner](https://github.com/saadeghi/saadeghi/blob/master/Assets/code.gif)
+  ![Code Banner](https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif)
 
 
 
