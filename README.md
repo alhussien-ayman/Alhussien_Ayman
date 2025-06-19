@@ -73,4 +73,8 @@ I’m a Junior Systems and Biomedical Engineering student with a strong passion 
 
 - **Cardiology Department Management System – Frontend & Backend :**
 
+  Built a full-stack system to manage Login , Sign in , patient information , Edit patient information , appointments , patient records , using HTML, CSS, JS, and .Net .
+
+- **Hybrid Numerical and Machine Learning Approaches for Modeling Epidermal Wound Healing:**
+
   Simulated nonlinear PDEs governing epithelial cell dynamics in wound healing using numerical methods (FEM, FDM, MOL) and machine learning .Compared solution accuracy and computational performance to evaluate their potential in biomedical modeling and clinical applications.
