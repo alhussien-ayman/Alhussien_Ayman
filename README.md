@@ -37,7 +37,7 @@ I’m a Junior Systems and Biomedical Engineering student with a strong passion 
 ## 📫 How to Reach Me
 
 - **Email:** alhussien.mohamed04@eng-st.cu.edu.eg
-- **LinkedIn:** [Youssef Abo El Ela](www.linkedin.com/in/alhussien-ayman-488336249)
+- **LinkedIn:** [Alhussien Ayman ](www.linkedin.com/in/alhussien-ayman-488336249)
 
 ---
 
@@ -63,10 +63,14 @@ I’m a Junior Systems and Biomedical Engineering student with a strong passion 
 
 ## 🔭 Current Projects
 
-- **Shazam-like Music Similarity Desktop App:**
+- **Stocks Management System – Desktop App:**
 
-  This project implements a music identification system using Digital Signal Processing (DSP) techniques. It fingerprints songs by extracting and hashing key features from their spectrograms.
+  Built a desktop app with login/sign-up, premium user roles, and transaction management. Included stock table views and an admin dashboard within a clean, responsive UI.
 
-- **Medical Device Training and Maintenance in Blender:**
+- **Bow and Arrow Game – Processing:**
 
   Making a simulation in blender for a training on spectrophotometer in a laboratory. This project is done for Computer Graphics University Course
+
+- **Cardiology Department Management System – Frontend & Backend :**
+
+  Simulated nonlinear PDEs governing epithelial cell dynamics in wound healing using numerical methods (FEM, FDM, MOL) and machine learning .Compared solution accuracy and computational performance to evaluate their potential in biomedical modeling and clinical applications.
