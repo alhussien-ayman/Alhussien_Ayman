@@ -4,7 +4,8 @@
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+%2C+I'm+Alhussien+Ayman;An+Aspiring++Software+Engineer)](https://git.io/typing-svg)
 
   
-  ![Modern Dev](https://github.com/darshan-jain/darshan-jain/blob/master/Assets/banner.png)
+  ![Dev Desk](https://raw.githubusercontent.com/bornmay/bornmay/master/assets/images/banner.gif)
+
 
 
 
