@@ -44,7 +44,7 @@ I’m a Junior Systems and Biomedical Engineering student with a strong passion 
 
 <div align="center">
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alhussien&layout=compact&theme=radical)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alhussien-ayman&layout=compact&theme=radical)
   
 </div>
 
