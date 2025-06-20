@@ -34,7 +34,7 @@ I’m a Junior Systems and Biomedical Engineering student with a strong passion 
 
 <div align="center">
   
-  ![Alhussien's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alhussien-Ayman&show_icons=true&theme=radical)
+  ![Alhussien's GitHub stats](https://github-readme-stats.vercel.app/api?username=alhussien-ayman&show_icons=true&theme=radical)
   
 </div>
 
